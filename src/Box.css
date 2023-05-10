@@ -1,0 +1,20 @@
+.Box{
+    width:90px;
+    height: 90px;
+    background-color: blue;
+    
+
+}
+ body{
+    height: 100vh;
+   
+    margin: 4rem;
+  
+ }
+ .BoxContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+ }
